@@ -1,1 +1,1 @@
-git init - used to initialize the git repository
+git init - not used to initialize the git repository
